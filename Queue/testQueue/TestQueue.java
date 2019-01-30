@@ -1,11 +1,11 @@
-package main;
+package testQueue;
 
 import doubleLinkedQueue.DoubleLinkedQueue;
 import priorityQueue.PriorityQueue;
 import singleLinkedQueue.SingleLinkedQueue;
 
-public class Main {
-	public static void main(String[] args) {
+public class TestQueue {
+	public static void start() {
 		testSingleQueue();
 //		testDoubleQueue();
 //		testPriorityQueue();
