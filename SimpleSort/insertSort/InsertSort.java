@@ -20,7 +20,7 @@ public class InsertSort {
 	        return array;
 	    }
 	     
-	    public static void display(int[] array){
+	    public void display(int[] array){
 	        for(int i = 0 ; i < array.length ; i++){
 	            System.out.print(array[i]+" ");
 	        }
